@@ -1,0 +1,11 @@
+#myTable{
+    display: none;
+}
+
+td{
+    border: 1px solid #000;
+}
+
+body {
+    text-align: center;
+}
